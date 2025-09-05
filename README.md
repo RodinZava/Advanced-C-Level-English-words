@@ -2,7 +2,7 @@
 
 🎉 **انتشار نسخهٔ v0.91**
 
-14 شهریور 1404
+15 شهریور 1404
 
 این نخستین نسخهٔ عمومی از پروژهٔ **واژگان سطح C زبان انگلیسی** است که حاصل ۱۲ ماه تلاش مستمر و پژوهش آموزشی می‌باشد.
 
@@ -18,7 +18,7 @@
 
 ---
 
-🎉 **Release v0.91 — September 5th, 2025**
+🎉 **Release v0.91 — September 6th, 2025**
 
 This is the first publicly released version of **C-Level English Words**, a comprehensive educational resource developed over 12 months of dedicated work.
 
@@ -43,6 +43,7 @@ Under the following terms:
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 For the full legal text, see the [LICENSE.txt](LICENSE.txt) file in this repository.
+
 
 
 
