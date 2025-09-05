@@ -1,6 +1,7 @@
 <div dir="rtl">
 
 🎉 **انتشار نسخهٔ v0.91**
+
 14 شهریور 1414
 
 این نخستین نسخهٔ عمومی از پروژهٔ **واژگان سطح C زبان انگلیسی** است که حاصل ۱۲ ماه تلاش مستمر و پژوهش آموزشی می‌باشد.
@@ -42,4 +43,5 @@ Under the following terms:
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 For the full legal text, see the [LICENSE.txt](LICENSE.txt) file in this repository.
+
 
